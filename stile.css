@@ -1,0 +1,25 @@
+h1{
+    background-color: beige;
+}
+.blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    display: inline-block;
+} 
+ .yellow{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: relative;
+    display: inline-block;
+
+ } 
+  .red{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: relative;
+   display: inline-block;
+  }
